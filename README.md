@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Male3451
-- 👀 I’m interested in developind and exploring tech.
+- 👀 I’m interested in developing codes and exploring tech.
 - 🌱 I’m currently learning Virtual Reality
 - 💞️ I’m looking to collaborate on Neural Networks
 - 📫 How to reach me abhaysinghroyale.6@gmail.com
